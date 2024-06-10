@@ -1,0 +1,21 @@
+savefig.dpi: 500
+savefig.bbox: tight
+savefig.pad_inches: 0.02
+font.size: 7
+legend.fontsize: 7
+legend.title_fontsize: 7
+axes.labelsize: 7
+axes.titlesize: 7
+xtick.labelsize: 6
+ytick.labelsize: 6
+xtick.major.size: 1.5
+xtick.minor.size: 1.5
+xtick.major.pad: 3
+xtick.minor.pad: 3
+xtick.direction: in
+ytick.major.size: 1.5
+ytick.minor.size: 1.5
+ytick.major.pad: 3
+ytick.minor.pad: 3
+ytick.direction: in
+axes.prop_cycle: cycler('color', ['35626f', 'c2d0d4', '000000', 'E55451'])
